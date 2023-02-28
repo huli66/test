@@ -1,0 +1,2 @@
+# 各个级别的 node_modules 都忽略
+node_modules
